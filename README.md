@@ -1,7 +1,7 @@
 Every day is a learning day.
 
 This is my first experience at creating a usable & public API.
-Inspired by [Nordic APIs](https://www.youtube.com/watch?v=JaKg5TOB1pw).
+Inspired by [TRAFIKLAB](https://www.youtube.com/watch?v=JaKg5TOB1pw).
 
 And followed some tutorials to get started.. Gotta start [somewhere..](https://www.youtube.com/watch?v=5ZMpbdK0uqU)
 
