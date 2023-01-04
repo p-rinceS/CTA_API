@@ -17,3 +17,6 @@ And followed some tutorials to get started.. Gotta start [somewhere..](https://w
     
     
 I'm optimistic so we'll see how far we get.. 😊
+
+
+UPDATE Found it hard to host for free 24/7.. So... Going to try something new using the already existing CTA Bus Tracking API.
