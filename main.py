@@ -32,3 +32,11 @@ def request_page():
 #Let's simply run the whole program below..
 if __name__ == "__main__":
     app.run(port=7777)
+
+
+
+    # What we have to do now..
+
+    # Find out a way to get Data for each bus.
+
+    # Possible a text file or some csv file to list all stops.
