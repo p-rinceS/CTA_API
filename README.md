@@ -1,5 +1,3 @@
-Every day is a learning day.
-
 This is my first experience at creating a usable & public API.
 Inspired by [TRAFIKLAB](https://www.youtube.com/watch?v=JaKg5TOB1pw).
 
